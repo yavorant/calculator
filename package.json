@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yavorant/calculator/issues"
   },
-  "homepage": "https://github.com/yavorant/calculator#readme"
+  "homepage": "https://github.com/yavorant/calculator#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
