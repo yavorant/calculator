@@ -1,0 +1,19 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "From Dr.Angela Yu WebDev Bootcamp",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yavorant/calculator.git"
+  },
+  "author": "yavorant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yavorant/calculator/issues"
+  },
+  "homepage": "https://github.com/yavorant/calculator#readme"
+}
